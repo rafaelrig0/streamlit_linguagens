@@ -1,0 +1,501 @@
+pedido_id,data_pedido,categoria,produto,quantidade,preco_unitario,receita
+1,2024-01-01,Roupas,Luminária,1,714.22,714.22
+2,2024-01-01,Roupas,Notebook,2,332.45,664.9
+3,2024-01-01,Roupas,Batom,3,757.8,2273.4
+4,2024-01-01,Esportes,Calça Jeans,4,475.67,1902.68
+5,2024-01-02,Roupas,Fone Bluetooth,5,297.77,1488.85
+6,2024-01-05,Beleza,Batom,5,341.75,1708.75
+7,2024-01-05,Esportes,Calça Jeans,5,685.62,3428.1
+8,2024-01-05,Eletrônicos,Batom,1,553.82,553.82
+9,2024-01-06,Eletrônicos,Camiseta,4,421.41,1685.64
+10,2024-01-06,Casa,Calça Jeans,3,171.41,514.23
+11,2024-01-06,Casa,Tênis de Corrida,4,137.1,548.4
+12,2024-01-07,Eletrônicos,Luminária,5,320.56,1602.8
+13,2024-01-08,Roupas,Fone Bluetooth,2,561.56,1123.12
+14,2024-01-08,Roupas,Perfume,4,167.25,669.0
+15,2024-01-09,Esportes,Jogo de Panelas,4,394.49,1577.96
+16,2024-01-09,Roupas,Jogo de Panelas,3,308.56,925.68
+17,2024-01-10,Beleza,Bola de Futebol,1,257.52,257.52
+18,2024-01-11,Roupas,Jogo de Panelas,3,53.57,160.71
+19,2024-01-11,Casa,Perfume,5,737.59,3687.95
+20,2024-01-12,Casa,Luminária,3,703.21,2109.63
+21,2024-01-12,Eletrônicos,Batom,1,350.57,350.57
+22,2024-01-13,Roupas,Calça Jeans,2,187.21,374.42
+23,2024-01-13,Roupas,Bola de Futebol,5,238.76,1193.8
+24,2024-01-15,Beleza,Fone Bluetooth,2,379.09,758.18
+25,2024-01-16,Eletrônicos,Fone Bluetooth,2,536.23,1072.46
+26,2024-01-17,Roupas,Notebook,5,59.37,296.85
+27,2024-01-18,Eletrônicos,Bola de Futebol,4,359.43,1437.72
+28,2024-01-19,Eletrônicos,Camiseta,5,540.46,2702.3
+29,2024-01-20,Esportes,Tênis de Corrida,5,388.74,1943.7
+30,2024-01-21,Roupas,Notebook,4,596.01,2384.04
+31,2024-01-22,Esportes,Jogo de Panelas,1,173.38,173.38
+32,2024-01-22,Beleza,Tênis de Corrida,3,60.19,180.57
+33,2024-01-22,Esportes,Fone Bluetooth,4,607.93,2431.72
+34,2024-01-24,Eletrônicos,Camiseta,1,338.84,338.84
+35,2024-01-25,Roupas,Jogo de Panelas,2,75.35,150.7
+36,2024-01-26,Eletrônicos,Notebook,3,484.39,1453.17
+37,2024-01-27,Roupas,Batom,5,54.84,274.2
+38,2024-01-28,Beleza,Perfume,2,486.07,972.14
+39,2024-01-29,Roupas,Luminária,4,143.11,572.44
+40,2024-01-29,Beleza,Bola de Futebol,3,607.67,1823.01
+41,2024-01-30,Roupas,Camiseta,4,472.13,1888.52
+42,2024-02-01,Roupas,Bola de Futebol,5,36.35,181.75
+43,2024-02-01,Beleza,Perfume,1,243.26,243.26
+44,2024-02-02,Casa,Jogo de Panelas,2,240.06,480.12
+45,2024-02-03,Eletrônicos,Batom,2,726.15,1452.3
+46,2024-02-03,Esportes,Perfume,3,334.66,1003.98
+47,2024-02-03,Eletrônicos,Notebook,5,348.43,1742.15
+48,2024-02-03,Eletrônicos,Luminária,1,780.47,780.47
+49,2024-02-04,Eletrônicos,Notebook,3,162.46,487.38
+50,2024-02-05,Casa,Fone Bluetooth,5,212.59,1062.95
+51,2024-02-05,Beleza,Batom,5,416.13,2080.65
+52,2024-02-06,Esportes,Perfume,2,579.15,1158.3
+53,2024-02-06,Eletrônicos,Tênis de Corrida,5,753.93,3769.65
+54,2024-02-07,Eletrônicos,Batom,2,130.43,260.86
+55,2024-02-08,Casa,Batom,5,774.89,3874.45
+56,2024-02-08,Eletrônicos,Notebook,1,109.39,109.39
+57,2024-02-09,Roupas,Camiseta,2,156.1,312.2
+58,2024-02-10,Roupas,Batom,5,470.82,2354.1
+59,2024-02-11,Roupas,Perfume,1,600.09,600.09
+60,2024-02-12,Roupas,Tênis de Corrida,4,225.88,903.52
+61,2024-02-12,Roupas,Batom,2,81.53,163.06
+62,2024-02-13,Esportes,Perfume,2,195.33,390.66
+63,2024-02-13,Esportes,Luminária,2,559.68,1119.36
+64,2024-02-13,Casa,Camiseta,3,585.39,1756.17
+65,2024-02-14,Roupas,Camiseta,3,515.76,1547.28
+66,2024-02-14,Eletrônicos,Calça Jeans,3,108.39,325.17
+67,2024-02-14,Casa,Notebook,3,421.99,1265.97
+68,2024-02-14,Eletrônicos,Tênis de Corrida,2,721.32,1442.64
+69,2024-02-15,Eletrônicos,Jogo de Panelas,2,641.87,1283.74
+70,2024-02-15,Eletrônicos,Luminária,2,434.74,869.48
+71,2024-02-17,Roupas,Calça Jeans,3,698.53,2095.59
+72,2024-02-17,Beleza,Luminária,5,170.15,850.75
+73,2024-02-18,Eletrônicos,Batom,2,415.02,830.04
+74,2024-02-19,Eletrônicos,Jogo de Panelas,1,421.95,421.95
+75,2024-02-19,Beleza,Calça Jeans,3,734.16,2202.48
+76,2024-02-19,Roupas,Batom,2,503.34,1006.68
+77,2024-02-19,Casa,Fone Bluetooth,1,135.29,135.29
+78,2024-02-24,Esportes,Batom,3,161.38,484.14
+79,2024-02-24,Roupas,Luminária,3,572.75,1718.25
+80,2024-02-26,Beleza,Notebook,3,695.84,2087.52
+81,2024-02-29,Casa,Jogo de Panelas,3,629.8,1889.4
+82,2024-03-02,Roupas,Jogo de Panelas,1,759.42,759.42
+83,2024-03-03,Eletrônicos,Bola de Futebol,2,775.59,1551.18
+84,2024-03-04,Beleza,Bola de Futebol,3,536.6,1609.8
+85,2024-03-05,Esportes,Camiseta,2,760.33,1520.66
+86,2024-03-08,Esportes,Bola de Futebol,2,680.01,1360.02
+87,2024-03-08,Eletrônicos,Luminária,3,152.57,457.71
+88,2024-03-08,Eletrônicos,Calça Jeans,4,46.85,187.4
+89,2024-03-08,Eletrônicos,Notebook,5,271.99,1359.95
+90,2024-03-08,Esportes,Calça Jeans,2,481.71,963.42
+91,2024-03-09,Casa,Calça Jeans,3,773.84,2321.52
+92,2024-03-09,Esportes,Luminária,5,292.73,1463.65
+93,2024-03-09,Roupas,Bola de Futebol,1,287.3,287.3
+94,2024-03-09,Roupas,Fone Bluetooth,5,284.51,1422.55
+95,2024-03-10,Esportes,Calça Jeans,2,410.81,821.62
+96,2024-03-10,Roupas,Jogo de Panelas,3,500.69,1502.07
+97,2024-03-12,Casa,Batom,4,417.95,1671.8
+98,2024-03-12,Casa,Luminária,1,487.57,487.57
+99,2024-03-13,Eletrônicos,Calça Jeans,2,782.19,1564.38
+100,2024-03-13,Eletrônicos,Batom,3,693.54,2080.62
+101,2024-03-13,Esportes,Luminária,5,318.33,1591.65
+102,2024-03-13,Beleza,Perfume,2,271.12,542.24
+103,2024-03-14,Eletrônicos,Camiseta,1,290.91,290.91
+104,2024-03-16,Roupas,Perfume,1,171.2,171.2
+105,2024-03-17,Casa,Batom,3,435.47,1306.41
+106,2024-03-17,Eletrônicos,Batom,3,215.3,645.9
+107,2024-03-17,Eletrônicos,Bola de Futebol,4,329.64,1318.56
+108,2024-03-18,Casa,Perfume,2,482.63,965.26
+109,2024-03-18,Beleza,Notebook,5,121.83,609.15
+110,2024-03-19,Roupas,Jogo de Panelas,3,399.96,1199.88
+111,2024-03-20,Roupas,Batom,5,50.7,253.5
+112,2024-03-20,Beleza,Camiseta,2,707.14,1414.28
+113,2024-03-21,Beleza,Luminária,1,65.98,65.98
+114,2024-03-22,Esportes,Notebook,5,49.74,248.7
+115,2024-03-24,Esportes,Bola de Futebol,3,600.05,1800.15
+116,2024-03-25,Roupas,Camiseta,4,699.4,2797.6
+117,2024-03-25,Casa,Tênis de Corrida,4,321.4,1285.6
+118,2024-03-26,Casa,Calça Jeans,4,209.51,838.04
+119,2024-03-26,Esportes,Notebook,4,472.47,1889.88
+120,2024-03-27,Roupas,Calça Jeans,1,667.77,667.77
+121,2024-03-28,Casa,Jogo de Panelas,1,343.75,343.75
+122,2024-03-28,Eletrônicos,Notebook,3,634.0,1902.0
+123,2024-03-29,Casa,Tênis de Corrida,3,163.05,489.15
+124,2024-03-30,Roupas,Jogo de Panelas,5,378.85,1894.25
+125,2024-03-30,Beleza,Fone Bluetooth,1,578.39,578.39
+126,2024-03-31,Beleza,Perfume,1,243.8,243.8
+127,2024-04-01,Eletrônicos,Calça Jeans,4,575.77,2303.08
+128,2024-04-02,Eletrônicos,Perfume,4,35.1,140.4
+129,2024-04-02,Beleza,Tênis de Corrida,5,238.35,1191.75
+130,2024-04-02,Eletrônicos,Calça Jeans,2,743.77,1487.54
+131,2024-04-03,Roupas,Perfume,1,267.58,267.58
+132,2024-04-03,Roupas,Bola de Futebol,5,493.85,2469.25
+133,2024-04-03,Roupas,Camiseta,4,311.86,1247.44
+134,2024-04-04,Beleza,Tênis de Corrida,3,616.41,1849.23
+135,2024-04-05,Roupas,Batom,4,233.24,932.96
+136,2024-04-05,Roupas,Tênis de Corrida,5,733.49,3667.45
+137,2024-04-06,Eletrônicos,Luminária,2,135.78,271.56
+138,2024-04-10,Esportes,Calça Jeans,2,197.25,394.5
+139,2024-04-10,Roupas,Jogo de Panelas,1,392.25,392.25
+140,2024-04-12,Beleza,Notebook,1,613.53,613.53
+141,2024-04-12,Beleza,Bola de Futebol,2,525.89,1051.78
+142,2024-04-12,Roupas,Jogo de Panelas,3,456.58,1369.74
+143,2024-04-13,Casa,Perfume,5,549.38,2746.9
+144,2024-04-13,Beleza,Batom,3,463.51,1390.53
+145,2024-04-14,Casa,Tênis de Corrida,4,247.83,991.32
+146,2024-04-14,Esportes,Fone Bluetooth,4,413.26,1653.04
+147,2024-04-15,Roupas,Camiseta,1,580.06,580.06
+148,2024-04-15,Eletrônicos,Luminária,5,291.99,1459.95
+149,2024-04-16,Beleza,Camiseta,5,106.8,534.0
+150,2024-04-17,Beleza,Fone Bluetooth,3,794.02,2382.06
+151,2024-04-17,Eletrônicos,Fone Bluetooth,4,523.71,2094.84
+152,2024-04-20,Beleza,Notebook,1,550.72,550.72
+153,2024-04-20,Esportes,Bola de Futebol,1,369.77,369.77
+154,2024-04-21,Eletrônicos,Jogo de Panelas,1,312.7,312.7
+155,2024-04-22,Casa,Calça Jeans,4,629.05,2516.2
+156,2024-04-22,Roupas,Tênis de Corrida,1,789.78,789.78
+157,2024-04-22,Esportes,Calça Jeans,1,348.05,348.05
+158,2024-04-23,Roupas,Bola de Futebol,4,723.44,2893.76
+159,2024-04-24,Beleza,Fone Bluetooth,5,510.38,2551.9
+160,2024-04-26,Eletrônicos,Tênis de Corrida,4,26.39,105.56
+161,2024-04-27,Beleza,Bola de Futebol,4,601.74,2406.96
+162,2024-04-28,Eletrônicos,Batom,4,548.03,2192.12
+163,2024-04-28,Casa,Batom,1,732.69,732.69
+164,2024-04-29,Eletrônicos,Perfume,1,109.19,109.19
+165,2024-04-29,Eletrônicos,Jogo de Panelas,4,391.56,1566.24
+166,2024-05-01,Eletrônicos,Fone Bluetooth,4,664.96,2659.84
+167,2024-05-01,Roupas,Calça Jeans,4,396.2,1584.8
+168,2024-05-02,Beleza,Notebook,2,231.49,462.98
+169,2024-05-02,Casa,Fone Bluetooth,5,206.94,1034.7
+170,2024-05-03,Esportes,Calça Jeans,1,240.78,240.78
+171,2024-05-04,Roupas,Fone Bluetooth,4,31.25,125.0
+172,2024-05-04,Casa,Tênis de Corrida,2,389.87,779.74
+173,2024-05-04,Beleza,Jogo de Panelas,5,143.85,719.25
+174,2024-05-05,Eletrônicos,Notebook,3,421.25,1263.75
+175,2024-05-06,Beleza,Perfume,3,239.48,718.44
+176,2024-05-06,Casa,Tênis de Corrida,2,230.38,460.76
+177,2024-05-07,Eletrônicos,Batom,1,194.26,194.26
+178,2024-05-08,Esportes,Camiseta,2,746.42,1492.84
+179,2024-05-09,Beleza,Perfume,5,498.89,2494.45
+180,2024-05-10,Beleza,Fone Bluetooth,5,292.68,1463.4
+181,2024-05-11,Casa,Jogo de Panelas,1,536.47,536.47
+182,2024-05-11,Esportes,Perfume,2,341.23,682.46
+183,2024-05-13,Beleza,Bola de Futebol,5,186.25,931.25
+184,2024-05-13,Roupas,Luminária,2,86.38,172.76
+185,2024-05-13,Eletrônicos,Notebook,1,452.39,452.39
+186,2024-05-14,Casa,Calça Jeans,2,76.63,153.26
+187,2024-05-15,Roupas,Calça Jeans,2,739.6,1479.2
+188,2024-05-15,Roupas,Luminária,4,243.18,972.72
+189,2024-05-15,Roupas,Fone Bluetooth,2,542.61,1085.22
+190,2024-05-16,Eletrônicos,Camiseta,2,784.24,1568.48
+191,2024-05-16,Eletrônicos,Perfume,1,742.26,742.26
+192,2024-05-17,Esportes,Camiseta,3,761.74,2285.22
+193,2024-05-19,Roupas,Tênis de Corrida,5,101.34,506.7
+194,2024-05-22,Eletrônicos,Tênis de Corrida,3,505.16,1515.48
+195,2024-05-23,Casa,Fone Bluetooth,4,156.24,624.96
+196,2024-05-24,Eletrônicos,Bola de Futebol,1,793.55,793.55
+197,2024-05-24,Eletrônicos,Luminária,3,760.43,2281.29
+198,2024-05-25,Roupas,Perfume,4,133.1,532.4
+199,2024-05-27,Esportes,Calça Jeans,1,324.49,324.49
+200,2024-05-29,Beleza,Fone Bluetooth,2,562.66,1125.32
+201,2024-05-29,Esportes,Jogo de Panelas,4,137.84,551.36
+202,2024-05-29,Eletrônicos,Camiseta,1,730.6,730.6
+203,2024-05-29,Eletrônicos,Perfume,1,119.4,119.4
+204,2024-05-30,Roupas,Camiseta,5,398.48,1992.4
+205,2024-05-30,Eletrônicos,Tênis de Corrida,1,594.38,594.38
+206,2024-05-31,Casa,Notebook,5,174.93,874.65
+207,2024-06-01,Eletrônicos,Jogo de Panelas,4,372.27,1489.08
+208,2024-06-01,Casa,Tênis de Corrida,2,189.18,378.36
+209,2024-06-02,Roupas,Fone Bluetooth,4,415.85,1663.4
+210,2024-06-05,Beleza,Perfume,2,674.13,1348.26
+211,2024-06-05,Casa,Camiseta,5,336.97,1684.85
+212,2024-06-06,Roupas,Perfume,4,572.04,2288.16
+213,2024-06-07,Beleza,Tênis de Corrida,1,697.71,697.71
+214,2024-06-07,Esportes,Tênis de Corrida,4,548.15,2192.6
+215,2024-06-09,Eletrônicos,Luminária,1,472.42,472.42
+216,2024-06-09,Eletrônicos,Jogo de Panelas,1,644.19,644.19
+217,2024-06-09,Roupas,Notebook,4,32.59,130.36
+218,2024-06-10,Roupas,Camiseta,4,395.02,1580.08
+219,2024-06-10,Roupas,Perfume,2,315.26,630.52
+220,2024-06-11,Eletrônicos,Batom,4,91.46,365.84
+221,2024-06-12,Eletrônicos,Bola de Futebol,5,275.72,1378.6
+222,2024-06-12,Eletrônicos,Camiseta,5,745.7,3728.5
+223,2024-06-12,Casa,Fone Bluetooth,4,103.75,415.0
+224,2024-06-13,Casa,Camiseta,2,645.45,1290.9
+225,2024-06-14,Casa,Bola de Futebol,5,32.23,161.15
+226,2024-06-14,Beleza,Fone Bluetooth,1,58.89,58.89
+227,2024-06-15,Casa,Tênis de Corrida,1,206.71,206.71
+228,2024-06-15,Eletrônicos,Notebook,3,746.98,2240.94
+229,2024-06-16,Esportes,Batom,4,132.28,529.12
+230,2024-06-18,Beleza,Notebook,5,716.41,3582.05
+231,2024-06-19,Casa,Calça Jeans,4,558.1,2232.4
+232,2024-06-20,Casa,Notebook,5,504.66,2523.3
+233,2024-06-21,Roupas,Jogo de Panelas,2,422.68,845.36
+234,2024-06-22,Beleza,Tênis de Corrida,4,209.85,839.4
+235,2024-06-23,Eletrônicos,Jogo de Panelas,2,775.39,1550.78
+236,2024-06-23,Roupas,Fone Bluetooth,1,187.97,187.97
+237,2024-06-24,Casa,Luminária,4,90.03,360.12
+238,2024-06-24,Eletrônicos,Calça Jeans,3,607.3,1821.9
+239,2024-06-25,Beleza,Luminária,5,775.37,3876.85
+240,2024-06-25,Beleza,Batom,2,768.06,1536.12
+241,2024-06-25,Roupas,Notebook,5,608.25,3041.25
+242,2024-06-26,Beleza,Tênis de Corrida,1,639.41,639.41
+243,2024-06-27,Roupas,Fone Bluetooth,4,294.8,1179.2
+244,2024-06-27,Beleza,Notebook,2,498.65,997.3
+245,2024-06-27,Esportes,Batom,2,792.63,1585.26
+246,2024-06-29,Eletrônicos,Bola de Futebol,2,253.85,507.7
+247,2024-06-29,Roupas,Camiseta,1,552.53,552.53
+248,2024-06-29,Eletrônicos,Bola de Futebol,4,380.95,1523.8
+249,2024-06-29,Roupas,Luminária,1,205.92,205.92
+250,2024-06-30,Roupas,Jogo de Panelas,1,751.66,751.66
+251,2024-06-30,Roupas,Notebook,1,373.58,373.58
+252,2024-07-01,Beleza,Calça Jeans,3,375.38,1126.14
+253,2024-07-02,Esportes,Jogo de Panelas,3,660.28,1980.84
+254,2024-07-02,Roupas,Perfume,3,551.91,1655.73
+255,2024-07-02,Roupas,Tênis de Corrida,3,145.66,436.98
+256,2024-07-02,Eletrônicos,Notebook,4,440.16,1760.64
+257,2024-07-03,Roupas,Jogo de Panelas,4,602.51,2410.04
+258,2024-07-03,Beleza,Bola de Futebol,2,674.73,1349.46
+259,2024-07-04,Beleza,Notebook,3,615.12,1845.36
+260,2024-07-04,Eletrônicos,Calça Jeans,3,154.79,464.37
+261,2024-07-05,Casa,Tênis de Corrida,5,307.64,1538.2
+262,2024-07-06,Roupas,Bola de Futebol,5,607.96,3039.8
+263,2024-07-08,Eletrônicos,Camiseta,2,320.0,640.0
+264,2024-07-09,Roupas,Perfume,1,71.66,71.66
+265,2024-07-09,Casa,Jogo de Panelas,2,344.84,689.68
+266,2024-07-10,Esportes,Luminária,3,273.57,820.71
+267,2024-07-11,Casa,Calça Jeans,1,550.07,550.07
+268,2024-07-13,Roupas,Camiseta,4,423.11,1692.44
+269,2024-07-14,Eletrônicos,Luminária,2,779.83,1559.66
+270,2024-07-14,Roupas,Jogo de Panelas,1,367.95,367.95
+271,2024-07-14,Eletrônicos,Camiseta,2,31.78,63.56
+272,2024-07-14,Beleza,Jogo de Panelas,3,798.45,2395.35
+273,2024-07-15,Roupas,Calça Jeans,4,725.76,2903.04
+274,2024-07-16,Esportes,Notebook,1,565.04,565.04
+275,2024-07-16,Casa,Tênis de Corrida,4,240.34,961.36
+276,2024-07-17,Eletrônicos,Perfume,1,56.44,56.44
+277,2024-07-17,Roupas,Luminária,3,415.41,1246.23
+278,2024-07-18,Eletrônicos,Bola de Futebol,1,723.63,723.63
+279,2024-07-18,Eletrônicos,Batom,5,282.02,1410.1
+280,2024-07-20,Esportes,Perfume,2,255.12,510.24
+281,2024-07-22,Beleza,Luminária,3,108.34,325.02
+282,2024-07-22,Eletrônicos,Jogo de Panelas,3,57.23,171.69
+283,2024-07-24,Roupas,Notebook,5,170.27,851.35
+284,2024-07-25,Beleza,Tênis de Corrida,3,271.84,815.52
+285,2024-07-26,Casa,Camiseta,4,747.48,2989.92
+286,2024-07-26,Beleza,Calça Jeans,4,240.27,961.08
+287,2024-07-27,Beleza,Jogo de Panelas,1,755.83,755.83
+288,2024-07-28,Eletrônicos,Camiseta,4,287.07,1148.28
+289,2024-07-29,Beleza,Calça Jeans,5,686.27,3431.35
+290,2024-07-30,Roupas,Luminária,5,87.35,436.75
+291,2024-07-30,Esportes,Fone Bluetooth,1,736.9,736.9
+292,2024-07-30,Roupas,Camiseta,2,545.47,1090.94
+293,2024-07-31,Eletrônicos,Tênis de Corrida,1,493.45,493.45
+294,2024-08-01,Roupas,Tênis de Corrida,2,97.96,195.92
+295,2024-08-02,Beleza,Notebook,3,471.05,1413.15
+296,2024-08-02,Eletrônicos,Jogo de Panelas,1,460.05,460.05
+297,2024-08-03,Casa,Luminária,5,213.9,1069.5
+298,2024-08-03,Roupas,Tênis de Corrida,2,136.46,272.92
+299,2024-08-03,Beleza,Calça Jeans,5,214.48,1072.4
+300,2024-08-04,Roupas,Tênis de Corrida,3,421.52,1264.56
+301,2024-08-06,Esportes,Perfume,2,63.2,126.4
+302,2024-08-06,Roupas,Bola de Futebol,2,313.86,627.72
+303,2024-08-07,Casa,Calça Jeans,1,232.96,232.96
+304,2024-08-11,Eletrônicos,Perfume,1,155.7,155.7
+305,2024-08-12,Casa,Notebook,5,519.92,2599.6
+306,2024-08-13,Beleza,Bola de Futebol,2,667.09,1334.18
+307,2024-08-14,Roupas,Bola de Futebol,2,529.57,1059.14
+308,2024-08-14,Roupas,Bola de Futebol,3,406.57,1219.71
+309,2024-08-14,Beleza,Camiseta,4,73.26,293.04
+310,2024-08-14,Roupas,Notebook,5,107.16,535.8
+311,2024-08-15,Casa,Fone Bluetooth,4,263.61,1054.44
+312,2024-08-17,Roupas,Notebook,2,519.46,1038.92
+313,2024-08-18,Roupas,Calça Jeans,1,328.47,328.47
+314,2024-08-18,Eletrônicos,Camiseta,5,442.97,2214.85
+315,2024-08-18,Roupas,Tênis de Corrida,1,412.72,412.72
+316,2024-08-19,Eletrônicos,Camiseta,3,430.37,1291.11
+317,2024-08-21,Eletrônicos,Jogo de Panelas,4,149.48,597.92
+318,2024-08-21,Beleza,Jogo de Panelas,4,627.48,2509.92
+319,2024-08-21,Eletrônicos,Tênis de Corrida,1,536.07,536.07
+320,2024-08-22,Eletrônicos,Calça Jeans,5,400.37,2001.85
+321,2024-08-22,Esportes,Perfume,2,440.8,881.6
+322,2024-08-22,Beleza,Perfume,5,265.23,1326.15
+323,2024-08-25,Esportes,Batom,3,765.93,2297.79
+324,2024-08-25,Eletrônicos,Fone Bluetooth,5,337.76,1688.8
+325,2024-08-26,Eletrônicos,Bola de Futebol,4,314.02,1256.08
+326,2024-08-28,Eletrônicos,Tênis de Corrida,2,203.85,407.7
+327,2024-08-29,Roupas,Perfume,3,261.35,784.05
+328,2024-08-29,Roupas,Camiseta,2,431.78,863.56
+329,2024-08-31,Casa,Jogo de Panelas,2,114.02,228.04
+330,2024-09-02,Roupas,Camiseta,1,285.12,285.12
+331,2024-09-03,Beleza,Tênis de Corrida,4,196.2,784.8
+332,2024-09-04,Esportes,Luminária,1,240.05,240.05
+333,2024-09-04,Esportes,Fone Bluetooth,1,93.6,93.6
+334,2024-09-04,Roupas,Jogo de Panelas,2,95.55,191.1
+335,2024-09-04,Casa,Batom,2,536.04,1072.08
+336,2024-09-07,Casa,Camiseta,5,683.38,3416.9
+337,2024-09-07,Eletrônicos,Luminária,1,606.22,606.22
+338,2024-09-07,Beleza,Jogo de Panelas,1,746.51,746.51
+339,2024-09-07,Beleza,Notebook,3,494.8,1484.4
+340,2024-09-08,Esportes,Jogo de Panelas,5,155.67,778.35
+341,2024-09-08,Casa,Bola de Futebol,4,716.74,2866.96
+342,2024-09-09,Casa,Batom,4,98.06,392.24
+343,2024-09-09,Eletrônicos,Luminária,3,681.24,2043.72
+344,2024-09-10,Eletrônicos,Calça Jeans,4,276.39,1105.56
+345,2024-09-11,Esportes,Bola de Futebol,2,253.25,506.5
+346,2024-09-11,Esportes,Bola de Futebol,3,378.96,1136.88
+347,2024-09-11,Casa,Batom,2,79.95,159.9
+348,2024-09-12,Roupas,Notebook,3,275.6,826.8
+349,2024-09-12,Beleza,Batom,3,317.92,953.76
+350,2024-09-14,Roupas,Camiseta,4,21.13,84.52
+351,2024-09-15,Casa,Fone Bluetooth,5,259.44,1297.2
+352,2024-09-17,Roupas,Camiseta,4,481.95,1927.8
+353,2024-09-17,Esportes,Batom,3,711.75,2135.25
+354,2024-09-17,Casa,Jogo de Panelas,2,444.54,889.08
+355,2024-09-17,Esportes,Jogo de Panelas,1,571.24,571.24
+356,2024-09-17,Esportes,Perfume,4,715.72,2862.88
+357,2024-09-19,Esportes,Camiseta,2,372.88,745.76
+358,2024-09-20,Beleza,Jogo de Panelas,5,695.99,3479.95
+359,2024-09-21,Eletrônicos,Notebook,3,703.49,2110.47
+360,2024-09-22,Beleza,Notebook,4,119.91,479.64
+361,2024-09-22,Casa,Camiseta,3,636.51,1909.53
+362,2024-09-23,Roupas,Tênis de Corrida,3,395.19,1185.57
+363,2024-09-24,Roupas,Fone Bluetooth,3,255.09,765.27
+364,2024-09-24,Casa,Fone Bluetooth,4,33.15,132.6
+365,2024-09-25,Beleza,Calça Jeans,3,145.54,436.62
+366,2024-09-25,Eletrônicos,Calça Jeans,4,203.54,814.16
+367,2024-09-25,Esportes,Tênis de Corrida,4,451.7,1806.8
+368,2024-09-26,Casa,Batom,2,299.61,599.22
+369,2024-09-29,Esportes,Perfume,3,787.4,2362.2
+370,2024-10-01,Beleza,Jogo de Panelas,2,647.73,1295.46
+371,2024-10-01,Beleza,Luminária,2,674.57,1349.14
+372,2024-10-02,Eletrônicos,Fone Bluetooth,2,609.03,1218.06
+373,2024-10-02,Casa,Batom,5,213.72,1068.6
+374,2024-10-02,Beleza,Tênis de Corrida,2,626.28,1252.56
+375,2024-10-03,Eletrônicos,Bola de Futebol,1,402.0,402.0
+376,2024-10-03,Casa,Bola de Futebol,5,409.87,2049.35
+377,2024-10-06,Eletrônicos,Batom,2,269.75,539.5
+378,2024-10-08,Beleza,Bola de Futebol,5,578.97,2894.85
+379,2024-10-09,Roupas,Luminária,3,115.64,346.92
+380,2024-10-11,Eletrônicos,Camiseta,4,602.82,2411.28
+381,2024-10-12,Esportes,Calça Jeans,5,324.69,1623.45
+382,2024-10-13,Esportes,Luminária,3,789.06,2367.18
+383,2024-10-14,Casa,Camiseta,5,274.32,1371.6
+384,2024-10-15,Eletrônicos,Fone Bluetooth,4,245.42,981.68
+385,2024-10-17,Casa,Bola de Futebol,1,476.74,476.74
+386,2024-10-17,Casa,Notebook,5,70.33,351.65
+387,2024-10-17,Casa,Notebook,2,573.97,1147.94
+388,2024-10-17,Beleza,Tênis de Corrida,4,761.96,3047.84
+389,2024-10-18,Esportes,Notebook,2,312.79,625.58
+390,2024-10-18,Roupas,Calça Jeans,5,381.72,1908.6
+391,2024-10-19,Eletrônicos,Fone Bluetooth,2,546.11,1092.22
+392,2024-10-19,Beleza,Camiseta,3,623.05,1869.15
+393,2024-10-20,Casa,Jogo de Panelas,5,374.31,1871.55
+394,2024-10-20,Beleza,Jogo de Panelas,4,152.38,609.52
+395,2024-10-20,Roupas,Jogo de Panelas,1,86.98,86.98
+396,2024-10-22,Eletrônicos,Calça Jeans,3,459.9,1379.7
+397,2024-10-22,Beleza,Perfume,5,67.45,337.25
+398,2024-10-23,Casa,Luminária,3,523.52,1570.56
+399,2024-10-24,Roupas,Calça Jeans,2,568.41,1136.82
+400,2024-10-24,Casa,Batom,4,552.2,2208.8
+401,2024-10-25,Beleza,Bola de Futebol,4,717.69,2870.76
+402,2024-10-26,Casa,Perfume,1,465.73,465.73
+403,2024-10-26,Eletrônicos,Bola de Futebol,1,28.6,28.6
+404,2024-10-26,Casa,Camiseta,5,617.66,3088.3
+405,2024-10-28,Eletrônicos,Notebook,4,163.61,654.44
+406,2024-10-29,Esportes,Fone Bluetooth,5,71.16,355.8
+407,2024-10-29,Casa,Perfume,1,467.55,467.55
+408,2024-10-30,Eletrônicos,Fone Bluetooth,4,470.29,1881.16
+409,2024-10-31,Roupas,Camiseta,4,341.98,1367.92
+410,2024-10-31,Eletrônicos,Camiseta,3,186.1,558.3
+411,2024-11-03,Roupas,Fone Bluetooth,1,289.96,289.96
+412,2024-11-05,Beleza,Bola de Futebol,1,572.66,572.66
+413,2024-11-05,Esportes,Notebook,4,29.0,116.0
+414,2024-11-06,Roupas,Notebook,3,797.95,2393.85
+415,2024-11-06,Esportes,Notebook,4,81.79,327.16
+416,2024-11-06,Beleza,Luminária,4,668.09,2672.36
+417,2024-11-07,Beleza,Fone Bluetooth,3,352.17,1056.51
+418,2024-11-07,Roupas,Perfume,3,103.37,310.11
+419,2024-11-08,Eletrônicos,Calça Jeans,5,318.79,1593.95
+420,2024-11-08,Esportes,Jogo de Panelas,1,747.96,747.96
+421,2024-11-08,Roupas,Fone Bluetooth,1,452.11,452.11
+422,2024-11-09,Eletrônicos,Tênis de Corrida,1,266.74,266.74
+423,2024-11-09,Casa,Fone Bluetooth,2,125.0,250.0
+424,2024-11-10,Casa,Fone Bluetooth,1,384.27,384.27
+425,2024-11-10,Beleza,Calça Jeans,3,361.82,1085.46
+426,2024-11-10,Roupas,Fone Bluetooth,3,591.39,1774.17
+427,2024-11-11,Roupas,Fone Bluetooth,2,256.13,512.26
+428,2024-11-11,Eletrônicos,Camiseta,2,535.88,1071.76
+429,2024-11-13,Esportes,Bola de Futebol,2,91.99,183.98
+430,2024-11-13,Eletrônicos,Notebook,2,444.08,888.16
+431,2024-11-15,Eletrônicos,Batom,4,378.87,1515.48
+432,2024-11-16,Casa,Notebook,1,348.12,348.12
+433,2024-11-16,Roupas,Tênis de Corrida,2,87.99,175.98
+434,2024-11-16,Casa,Batom,3,238.95,716.85
+435,2024-11-17,Roupas,Calça Jeans,1,495.2,495.2
+436,2024-11-18,Esportes,Fone Bluetooth,1,475.79,475.79
+437,2024-11-18,Roupas,Bola de Futebol,3,107.39,322.17
+438,2024-11-18,Casa,Calça Jeans,3,291.21,873.63
+439,2024-11-19,Roupas,Perfume,1,618.94,618.94
+440,2024-11-20,Roupas,Calça Jeans,4,137.93,551.72
+441,2024-11-21,Eletrônicos,Fone Bluetooth,1,585.33,585.33
+442,2024-11-22,Esportes,Fone Bluetooth,4,217.26,869.04
+443,2024-11-25,Esportes,Luminária,4,487.18,1948.72
+444,2024-11-25,Roupas,Luminária,2,506.49,1012.98
+445,2024-11-26,Roupas,Fone Bluetooth,5,164.16,820.8
+446,2024-11-26,Casa,Batom,2,784.9,1569.8
+447,2024-11-27,Beleza,Bola de Futebol,5,497.54,2487.7
+448,2024-11-27,Roupas,Tênis de Corrida,1,698.4,698.4
+449,2024-11-28,Casa,Tênis de Corrida,5,509.62,2548.1
+450,2024-11-28,Eletrônicos,Camiseta,3,679.37,2038.11
+451,2024-11-28,Esportes,Bola de Futebol,2,754.19,1508.38
+452,2024-11-29,Eletrônicos,Batom,1,701.15,701.15
+453,2024-11-30,Roupas,Calça Jeans,5,98.34,491.7
+454,2024-12-01,Eletrônicos,Luminária,1,125.21,125.21
+455,2024-12-01,Eletrônicos,Luminária,4,713.48,2853.92
+456,2024-12-01,Roupas,Notebook,2,768.69,1537.38
+457,2024-12-03,Casa,Fone Bluetooth,5,272.94,1364.7
+458,2024-12-03,Beleza,Notebook,4,239.27,957.08
+459,2024-12-04,Casa,Batom,1,200.13,200.13
+460,2024-12-04,Eletrônicos,Tênis de Corrida,3,248.45,745.35
+461,2024-12-05,Beleza,Perfume,3,706.86,2120.58
+462,2024-12-05,Beleza,Calça Jeans,4,628.18,2512.72
+463,2024-12-06,Roupas,Notebook,3,323.64,970.92
+464,2024-12-07,Eletrônicos,Jogo de Panelas,2,658.84,1317.68
+465,2024-12-07,Esportes,Tênis de Corrida,1,359.77,359.77
+466,2024-12-08,Casa,Bola de Futebol,5,300.75,1503.75
+467,2024-12-08,Casa,Camiseta,5,123.57,617.85
+468,2024-12-08,Casa,Tênis de Corrida,4,429.21,1716.84
+469,2024-12-09,Casa,Fone Bluetooth,3,792.86,2378.58
+470,2024-12-09,Roupas,Perfume,1,372.53,372.53
+471,2024-12-10,Eletrônicos,Perfume,4,435.46,1741.84
+472,2024-12-11,Roupas,Camiseta,3,775.59,2326.77
+473,2024-12-12,Esportes,Jogo de Panelas,1,324.05,324.05
+474,2024-12-13,Eletrônicos,Fone Bluetooth,5,421.75,2108.75
+475,2024-12-13,Eletrônicos,Perfume,5,680.36,3401.8
+476,2024-12-14,Roupas,Fone Bluetooth,1,702.36,702.36
+477,2024-12-14,Beleza,Batom,5,690.02,3450.1
+478,2024-12-15,Roupas,Bola de Futebol,1,710.45,710.45
+479,2024-12-15,Beleza,Batom,2,149.21,298.42
+480,2024-12-15,Casa,Notebook,5,649.11,3245.55
+481,2024-12-15,Roupas,Bola de Futebol,4,269.68,1078.72
+482,2024-12-16,Esportes,Fone Bluetooth,5,330.21,1651.05
+483,2024-12-18,Roupas,Bola de Futebol,3,682.12,2046.36
+484,2024-12-19,Roupas,Tênis de Corrida,2,237.91,475.82
+485,2024-12-19,Esportes,Fone Bluetooth,2,540.42,1080.84
+486,2024-12-20,Roupas,Jogo de Panelas,4,358.25,1433.0
+487,2024-12-21,Roupas,Jogo de Panelas,5,399.25,1996.25
+488,2024-12-22,Casa,Batom,4,252.08,1008.32
+489,2024-12-25,Roupas,Bola de Futebol,4,327.78,1311.12
+490,2024-12-25,Casa,Luminária,4,332.27,1329.08
+491,2024-12-25,Eletrônicos,Fone Bluetooth,5,77.21,386.05
+492,2024-12-27,Roupas,Fone Bluetooth,3,168.47,505.41
+493,2024-12-27,Eletrônicos,Tênis de Corrida,2,590.35,1180.7
+494,2024-12-27,Casa,Bola de Futebol,3,452.49,1357.47
+495,2024-12-28,Esportes,Camiseta,1,54.08,54.08
+496,2024-12-29,Beleza,Perfume,5,458.75,2293.75
+497,2024-12-29,Roupas,Perfume,2,27.86,55.72
+498,2024-12-30,Beleza,Perfume,3,493.12,1479.36
+499,2024-12-30,Casa,Tênis de Corrida,4,642.34,2569.36
+500,2024-12-31,Casa,Jogo de Panelas,3,575.02,1725.06
